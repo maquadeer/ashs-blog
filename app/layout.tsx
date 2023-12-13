@@ -13,7 +13,7 @@ export default function RootLayout({
 }) {
 
   const header = (
-    <header className="text-center bg-green-200 p-6 my-6 rounded-md">
+    <header className="text-center bg-gradient-to-b from-blue-700 via-blue-800 to-gray-900 p-6 my-6 rounded-md">
       <div>
       <Link href="/">
         <h1 className="text-3xl font-bold">Ash with Bash</h1>
