@@ -33,7 +33,7 @@ export default function RootLayout({
 
   return (
     <html lang="en">
-      <body className="bg-gradient-to-r from-indigo-300 to-purple-400">
+      <body>
         <div className="mx-auto max-w-2xl px-6">
           {header}
           {children}
