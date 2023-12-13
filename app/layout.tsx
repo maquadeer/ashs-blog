@@ -16,7 +16,7 @@ export default function RootLayout({
     <header className="text-center bg-gradient-to-b from-blue-700 via-blue-800 to-gray-900 p-6 my-6 rounded-md">
       <div>
       <Link href="/">
-        <h1 className="text-3xl font-bold">Ash with Bash</h1>
+        <h1 className="text-3xl font-bold text-white">Ash with Bash</h1>
       </Link>
       <p>Ash's Online NootBook here. 📒</p>
       </div>
@@ -25,7 +25,7 @@ export default function RootLayout({
   
   const footer = (
     <footer>
-      <div className="border-t border-slate-800 mt-6 py-6 text- text-slate-600 text-center">
+      <div className="border-t border-slate-800 mt-6 py-6  text-slate-600 text-center">
         <h3>Developed by Ash's trash</h3>
       </div>
     </footer>
