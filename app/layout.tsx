@@ -18,7 +18,7 @@ export default function RootLayout({
       <Link href="/">
         <h1 className="text-3xl font-bold text-white">Ash with Bash</h1>
       </Link>
-      <p>Ash's Online NootBook here. 📒</p>
+      <p className="text-white">Ash's Online NootBook here. 📒</p>
       </div>
   </header>
   );
